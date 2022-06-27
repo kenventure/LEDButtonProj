@@ -1,3 +1,7 @@
+LED Project
+
+Written by: Kenneth Tham on 26 June 2022
+
 This program implements the LED button game.
 
 The design caters for exetensibility in case the display changes.
